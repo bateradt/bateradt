@@ -6,7 +6,7 @@
 
 Meu nome é Marcelo, sou apaixonado por tecnologia, esportes, música, jogos virtuais e principalmente pela área de desenvolvimento de software backend, web e mobile, onde é meu principal foco.
 
-Formado e especializado em Sistemas de Informação e Engenharia de Software, atuei como desenvolvedor certificado Delphi no desenvolvimento de um ERP e de aplicativos mobile, e após alguns anos me certifiquei como Scrum Master na PSM I. Trabalhei como facilitador da equipe do ERP, apoiando o PO no gerenciamento do backlog e removendo impedimentos dos programadores, e também auxiliando as equipes de suporte e implantação. Também liderarei um time ágil de desenvolvimento web para transportar as soluções do ERP para a nuvem, onde utilizamos Node.js, React e React Native. Tenho alguns projetos pessoais que criei durante os cursos que fiz e que estão publicados no github. 
+Formado e especializado em Sistemas de Informação e Engenharia de Software, atuei como desenvolvedor certificado Delphi no desenvolvimento de um ERP e de aplicativos mobile, e após alguns anos me certifiquei como Scrum Master na PSM I. Trabalhei como facilitador da equipe do ERP, apoiando o PO no gerenciamento do backlog e removendo impedimentos dos programadores, e também auxiliando as equipes de suporte e implantação. Também liderei um time ágil de desenvolvimento web para transportar as soluções do ERP para a nuvem, onde utilizamos Node.js, React e React Native. Tenho alguns projetos pessoais que criei durante os cursos que fiz e que estão publicados no github. 
 
 Atualmente, estou trabalhando como Full Stack Engineer com Java Spring Boot, onde estou aprendendo novas tecnologias e novos métodos de trabalho.
 
